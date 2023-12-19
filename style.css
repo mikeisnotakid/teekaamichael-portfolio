@@ -110,7 +110,7 @@ h2 {
 }
 
 /* screen sizes */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
     .contain-div {
         display: flex;
         flex-direction: column-reverse;
