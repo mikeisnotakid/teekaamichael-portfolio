@@ -45,9 +45,9 @@ main {
     /* text-align: center; */
 
 }
-.herobox1 p{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 
+.herobox1 p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 .herobox2 {
@@ -100,7 +100,7 @@ h1 {
 }
 
 h2 {
-    font-weight:700;
+    font-weight: 700;
     margin-top: 7px;
 }
 
